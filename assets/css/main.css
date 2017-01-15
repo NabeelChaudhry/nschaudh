@@ -3801,8 +3801,9 @@
 		}
 
 /* HOME */
-a.tagify:hover {
-	background-color: #56d55a;
+
+.btn-links {
+	border: none;
 }
 
 a.tetris:hover {
@@ -3813,8 +3814,8 @@ a.ER:hover {
 	background-color: #00b4b4;
 }
 
-.tagify, .tetris, .ER {
-	all: initial;
+a.tagify, a.tetris, a.ER {
+	border: none;
 }
 
 /* ABOUT ME  */
