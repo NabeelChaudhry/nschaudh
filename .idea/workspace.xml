@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5250edef-90da-4b38-ae40-061a0161d67e" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/tetris/Tetris-Glow.png" afterPath="$PROJECT_DIR$/images/Tetris-Glow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/er-model.html" afterPath="$PROJECT_DIR$/er-model.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagify.html" afterPath="$PROJECT_DIR$/tagify.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tetris.html" afterPath="$PROJECT_DIR$/tetris.html" />
     </list>
     <ignored path="My Website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="341">
@@ -39,8 +38,8 @@
       <file leaf-file-name="tagify.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tagify.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+            <state relative-caret-position="463">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -49,18 +48,18 @@
       <file leaf-file-name="tetris.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tetris.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="er-model.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="er-model.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/er-model.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+            <state relative-caret-position="374">
+              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -100,11 +99,11 @@
         <option value="$PROJECT_DIR$/images/tagify.html" />
         <option value="$PROJECT_DIR$/videos/tetris.html" />
         <option value="$PROJECT_DIR$/generic.html" />
-        <option value="$PROJECT_DIR$/tetris.html" />
-        <option value="$PROJECT_DIR$/tagify.html" />
-        <option value="$PROJECT_DIR$/er-model.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/tagify.html" />
+        <option value="$PROJECT_DIR$/tetris.html" />
+        <option value="$PROJECT_DIR$/er-model.html" />
       </list>
     </option>
   </component>
@@ -671,15 +670,15 @@
       <workItem from="1484008944141" duration="11149000" />
       <workItem from="1484099808362" duration="6055000" />
       <workItem from="1484106871284" duration="14503000" />
-      <workItem from="1484512374647" duration="3784000" />
+      <workItem from="1484512374647" duration="4401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35491000" />
+    <option name="totallyTimeSpent" value="36108000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="438" y="319" width="1940" height="1011" extended-state="1" />
+    <frame x="438" y="319" width="1940" height="1011" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -908,30 +907,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tetris.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tagify.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/er-model.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -944,6 +919,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
           <caret line="76" column="53" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tagify.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tetris.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/er-model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
           <folding />
         </state>
       </provider>
