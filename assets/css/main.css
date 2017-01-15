@@ -3806,14 +3806,6 @@
 	border: none;
 }
 
-a.tetris:hover {
-	background-color: #a1599a;
-}
-
-a.ER:hover {
-	background-color: #00b4b4;
-}
-
 a.tagify, a.tetris, a.ER {
 	border: none;
 }
