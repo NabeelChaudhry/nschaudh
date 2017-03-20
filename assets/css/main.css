@@ -3853,6 +3853,12 @@ a.app-imgs {
 	height: 50%;
 }
 
+/* WATSLIT */
+.litimg {
+	width: 70%;
+	height: 70%;
+}
+
 /* YOUTUBE VIDS */
 .video-container {
 	position: relative;
