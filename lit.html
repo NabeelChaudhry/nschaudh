@@ -30,6 +30,60 @@
         <!-- Content -->
         <section id="content" class="main">
             <span class="image main"><img src="images/lit/WatsLit-bg.png" alt="" /></span>
+            <h2>deCODE Hackathon</h2>
+            <p>I had the pleasure of attending the deCode Hackathon in Waterloo and meeting all the awesome people there! deCODE is a hackathon that pairs students up with high-growth startups to solve problems that the companies are facing.
+                I received an email a couple of days before the event that I was picked by Microsoft and the deCODE team to work with 6 other hackers. I was really excited about this because I viewed this
+                as an opportunity to make a really cool project, work with a team I've never met before, and meet two awesome mentors from Microsoft.
+            </p>
+            <p>To find out more information about the deCODE Hackathon checkout their Facebook page: <a href="https://www.facebook.com/hackdecode/?ref=br_rs" class="icon fa-facebook alt"><span class="label">Facebook</span></a></p>
+
+            <h2>Introduction and Planning</h2>
+            <p> My initial worry was how our team cohesion would effect the quality of our project, but these worries were quickly to put to bed when I met the team. Everyone got along instantly and we all seemed to be on the same page.
+                The biggest challenge for all of us was overcoming the learning curve of working with the Microsoft Bot Framework, which was something none of us had ever worked with (with the exception of our Microsoft mentors).
+                We were told by our mentors that we had to make an application that integrates the Waterloo API with the Microsoft Bot Framework (MBF), the function of the application was left for us to decide.
+                The team and I went through many iterations about the possibilities of our application could be, however many of these ideas proved to have issues with scope. In the end we decided to use Waterloo's API together with the
+                MBF to make an application that would give users information about the events being held on Waterloo's campus. We thought this was the best idea since many students wonder what events are happening on campus and having
+                an application that brings all the events together in one place seemed like a really cool idea that could potentially help many students.
+            </p>
+
+            <img src="images/lit/workflow.png" alt="workflow diagram" style="width:800px;height:600px;"/>
+            <p>The image above is what our  teammate made with everyone's input (as you can tell she loves dogs). From this point on we split up the team into different sections based on technical skills.
+                We concluded that we needed 3 teams: Front-End Team (for the website), Back-End Team 1 (for the "litness" database), Back-End Team 2 (for integrating MBF with Waterloo's API).
+                Before I dive into what team I was assigned to, let me quickly go over what the goals we set as a team in terms of our applications functionality.
+            </p>
+
+            <h2>Project Goals</h2>
+            <ul> <li>Provide a clean & responsive user experience</li>
+                <li>Learn how to use MBF</li>
+                <li>Dive into Waterloo's API and see what information we can pull and how its structured</li>
+                <li>Have a back-end team construct a database that will hold information about how lit events are</li>
+                <li>Make a web application for our bot and set up Skype integration</li>
+            </ul>
+
+            <h2>Working with MBF & Waterloo's API</h2>
+            <p>I was assigned to Back-End Team 2 since I've done some work with Waterloo's API in some of my computer science courses on campus. The easiest part of this project (for me) was working
+                with the API calls since I'm relatively familiar with how they work and how to use them. In contrast, the hardest part was learning how to use MBF and getting the bots "waterfall workflow"
+                to work properly. Me and my team struggled to get the workflow to work properly at first, but once it all came together it was a really rewarding experience. The biggest downfall for our team
+                was that we couldn't get the "lit" button to work. The lit button is clicked by a user to show that he/she thinks the event is lit (similar to Facebooks like button). The main reason that
+                we couldn't get this to work was because of a limitations introduced from the MBF. Currently MBF doesn't support onClick events on buttons other than opening a URL so we couldn't make the
+                appropriate function calls to get the lit button working. This was really unfortunate, but we got the other core aspects of the application to work. Thankfully we were able to use LUIS,
+                a REST API for natural language processing, which made parsing our input from the user trivial. Overall my team felt like the experience of integrating MBF with Waterloo's API was
+                very rewarding and we were thrilled with the overall product given our limited coding time.
+            </p>
+
+            <p>I think its time I show you a really quick demo of what we made! One thing to note is that we were
+            given Microsoft credits to use Azure, which is what we used to host our bot. These credits will eventually run out and the bot will no longer work, so if you go to watslit.today and the
+            bot is not functioning, the credits most likely ran out. </p>
+
+            <h2>Video Demonstration</h2>
+            <div class="video-container" >
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/_e97hqwSv6k" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <p></p>
+
+            <p> Overall I had a great time meeting my team and the Microsoft mentors! I think we made a really cool project once we take into the account the limited coding time we had. Hats off to
+                my team and our mentors for making Watslit!
+            </p>
 
         </section>
 
