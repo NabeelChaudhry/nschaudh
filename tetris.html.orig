@@ -6,7 +6,7 @@
 -->
 <html>
 <head>
-    <title>Nabeel Chaudhry - Tagify</title>
+    <title>Nabeel Chaudhry - Tetris</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -21,7 +21,7 @@
 
     <!-- Header -->
     <header id="header">
-        <h1>Tagify</h1>
+        <h1>Tetris</h1>
     </header>
 
     <!-- Main -->
@@ -29,42 +29,34 @@
 
         <!-- Content -->
         <section id="content" class="main">
-            <span class="image main"><img src="images/tagify/spotify-pg-image.png" alt="" /></span>
+            <span class="image main"><img src="images/tetris/tetris-cover.jpg" alt="" /></span>
             <h2>Project Goals</h2>
-            <ul> <li>Learn how to use HTML5, CSS3, and JQuery to present a well made mobile interface</li>
-                 <li>Learn how to interact with the user</li>
-                 <li>Use JavaScript with JSON, AJAX to get, process, and post data to the web</li>
+            <ul> <li>Learn how the Java event queue and event loop manages events</li>
+                <li>Learn how to user timers and implement them</li>
+                <li>Learn how to implement animations in Java</li>
             </ul>
 
             <h2>Video Demonstration</h2>
             <div class="video-container" > 
-		    <iframe width="560" height="315" src="https://www.youtube.com/embed/sGdWTSehQ2w" frameborder="0" allowfullscreen></iframe>
+		    <iframe width="560" height="315" src="https://www.youtube.com/embed/KAU2zftvnQ4" frameborder="0" allowfullscreen></iframe>
 	        </div>
 
             <p></p>
-            <h2>Pictures of my web app:</h2>
+            <h2>Pictures of my Tetris app:</h2>
             <section id="demoimgs">
-                <a href="images/tagify/login.png" class="app-imgs"> <img src="images/tagify/login.png" class="webapp"> </a>
-                <a href="images/tagify/playlists&tags.png" class="app-imgs"> <img src="images/tagify/playlists&tags.png" class="webapp"> </a>
-                <a href="images/tagify/search.png" class="app-imgs"> <img src="images/tagify/search.png" class="webapp"> </a>
+                <a href="images/tetris/TetrisHomeSplash.png" class="app-imgs"> <img src="images/tetris/TetrisHomeSplash.png" class="webapp"> </a>
+                <img src="images/tetris/arrow.png" id="arrow">
+                <a href="images/tetris/Gameplay.png" class="app-imgs"> <img src="images/tetris/Gameplay.png" class="webapp"> </a>
+                <img src="images/tetris/arrow.png" id="arrow">
+                <a href="images/tetris/Gameover.png" class="app-imgs"> <img src="images/tetris/Gameover.png" class="webapp"> </a>
             </section>
 
             <h2>Reflections</h2>
-            <p>This being my first web application I made a lot of mistakes and in my code I focused more on functionality
-            rather than organization (although my code is still is still organized, it could be better!). Learning to work
-            with JSON and AJAX was an enlightening experience. Initially I had difficulty dealing with the asynchronous nature
-            of getting and posting data to the web. When I first started coding I had AJAX code that changed local variables, and once I accessed
-                these variables I wondered why the Chrome console would always display them as null. Once I realized that I could
-                use the .done() function that executes code once the AJAX request was completed, it made my life a lot easier. It
-                was a dumb mistake from me by not realizing the asynchronous nature of the post/get calls, but it was all a part of the learning experience.
-            </p>
-
-            <p> Apart from what I said earlier, I learned quite a bit about using CSS and JQuery to enhance the look and feel of my app
-                ( I tried to keep Spotify's black and green theme throughout my app). Although it looks
-                a little rough, I'm pretty proud of it since I wrote essentially all of the CSS/JQuery myself. Furthermore, this was my first time working
-                with an API and it was really cool learning how to get,post and interpret the data from Spotify's API.
-
-            </p>
+            <p>Before I started actually coding this project I had assumed I would struggle more with the animation aspect of Tetris rather than
+            the game theory. However, once I started coding I realized that I found the game theory to be more difficult than the animations, despite
+            making a few games prior to this. Learning the animation aspects through understanding how the event loop works and using the Java swing library
+            was an awesome experience. Coding this project was challenging at times, but once it all came together and the game was running smoothly, it felt great! </p>
+            <p> Overall I learned a lot about animation in Java and also learned to appreciate how hard it is to make a game.</p>
         </section>
 
     </div>
@@ -73,7 +65,11 @@
     <footer id="footer">
         <section>
             <h2>Contact Me</h2>
+<<<<<<< Updated upstream
+            <p>I strongly prefer email, but if you want to phone me please leave a message if I don't pick up.</p>
+=======
             <p>I prefer email, but if you want to phone me please leave a message if I don't pick up!</p>
+>>>>>>> Stashed changes
             <ul class="actions">
                 <li><a href="index.html" class="button">Home</a></li>
             </ul>

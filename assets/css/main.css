@@ -3859,6 +3859,23 @@ a.app-imgs {
 	height: 70%;
 }
 
+/* WEATHER */
+.blue {
+	color: #54c1de;
+}
+
+.weather {
+	width: 70%;
+	height: 70%;
+	margin-bottom: 30px;
+}
+
+.sketch {
+	width: 40%;
+	height: 40%;
+	margin-bottom: 10px;
+}
+
 /* YOUTUBE VIDS */
 .video-container {
 	position: relative;
