@@ -3892,3 +3892,13 @@ a.app-imgs {
 	width: 100%;
 	height: 100%;
 }
+
+/* ARSENAL */
+.UI {
+	width: 70%;
+	height: 70%;
+}
+
+.red {
+	color: red;
+}
