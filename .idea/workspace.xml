@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5250edef-90da-4b38-ae40-061a0161d67e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arsenal.html" afterPath="$PROJECT_DIR$/arsenal.html" />
     </list>
     <ignored path="My Website.iws" />
@@ -54,17 +53,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arsenal.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="arsenal.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/arsenal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+            <state relative-caret-position="681">
+              <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1602">
@@ -664,12 +663,12 @@
       <workItem from="1489972728475" duration="9224000" />
       <workItem from="1496014385371" duration="4216000" />
       <workItem from="1499631498454" duration="5342000" />
-      <workItem from="1504664546447" duration="2390000" />
+      <workItem from="1504664546447" duration="2998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61983000" />
+    <option name="totallyTimeSpent" value="62591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -1020,18 +1019,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arsenal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1602">
           <caret line="3896" column="5" selection-start-line="3896" selection-start-column="5" selection-end-line="3896" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arsenal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
           <folding />
         </state>
       </provider>
